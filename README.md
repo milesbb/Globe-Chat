@@ -1,4 +1,4 @@
-![Global Chat](https://res.cloudinary.com/dlskdxln3/image/upload/v1667228961/globechat/globechatgif_czlz6y.gif)
+![Global Chat](https://res.cloudinary.com/dlskdxln3/image/upload/v1667230804/globechat/earthgifbackground_wit2vu.gif)
 
 # Global Chat
 
