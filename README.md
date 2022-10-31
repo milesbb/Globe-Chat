@@ -10,7 +10,7 @@
 <p align="center">🌎 Bringing people together one random internet conversation at a time...</p>
 
 <p align="center">
-<img alt="Start Screen" height="500" src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667244971/globechat/Screenshot_2022-10-31_at_19.33.05_caubd3.png" />
+<img alt="Start Screen" height="500" src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667245844/globechat/webbogif_plvxi5.gif" />
 </p>
 
 
