@@ -1,4 +1,8 @@
-<img align="center" src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667230804/globechat/earthgifbackground_wit2vu.gif" />
+
+<p align="center">
+<img  src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667230804/globechat/earthgifbackground_wit2vu.gif" />
+
+</p>
 
 # Globe Chat
 
