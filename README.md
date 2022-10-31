@@ -1,7 +1,6 @@
 
 <p align="center">
-<img  src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667230804/globechat/earthgifbackground_wit2vu.gif" />
-
+  <img alt="Globe Chat" src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667230804/globechat/earthgifbackground_wit2vu.gif" />
 </p>
 
 # Globe Chat
@@ -10,8 +9,8 @@
 
 🌎 Bringing people together one random internet conversation at a time...
 
-![Start Screen](https://res.cloudinary.com/dlskdxln3/image/upload/v1667244971/globechat/Screenshot_2022-10-31_at_19.33.05_caubd3.png)
+<img alt="Start Screen" height="300" src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667244971/globechat/Screenshot_2022-10-31_at_19.33.05_caubd3.png" />
 
 📱 Also functional on mobile screens
 
-![Mobile example](https://res.cloudinary.com/dlskdxln3/image/upload/v1667244971/globechat/Screenshot_2022-10-31_at_19.35.47_ulf4sz.png)
+<img alt="Mobile Example" height="300" src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667244971/globechat/Screenshot_2022-10-31_at_19.35.47_ulf4sz.png" />
