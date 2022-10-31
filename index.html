@@ -104,11 +104,20 @@
         />
       </div>
       <h4>Pick a nickname and start chatting!</h4>
-      <form id="nicknameForm">
-        <input id="nicknameInput" autocomplete="off" /><button>
-          Let's Chat!
-        </button>
-      </form>
+      <div class="w-75 mx-auto">
+
+        <form id="nicknameForm">
+          <div class="input-group mb-3">
+            <input id="nicknameInput" type="text" class="form-control" placeholder="Add a nickname!" aria-label="Recipient's username" aria-describedby="basic-addon2">
+            <div class="input-group-append">
+              <button class="btn btn-outline-secondary" type="button">Let's Chat!</button>
+            </div>
+          </div>
+          <!-- <input id="nicknameInput" autocomplete="off" /><button>
+            Let's Chat!
+          </button> -->
+        </form>
+      </div>
       <p class="my-5">
         <b>Remember!</b> all users will be able to see your username
       </p>
@@ -139,7 +148,7 @@
         </a>
       </div>
     </div>
-    
+
     <div id="infoTab">
       <svg
         xmlns="http://www.w3.org/2000/svg"
