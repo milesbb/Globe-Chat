@@ -1,4 +1,4 @@
-![Globe Chat](https://res.cloudinary.com/dlskdxln3/image/upload/v1667230804/globechat/earthgifbackground_wit2vu.gif)
+<img align="center" src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667230804/globechat/earthgifbackground_wit2vu.gif" />
 
 # Globe Chat
 
