@@ -22,4 +22,6 @@
 
 ![Mobile example](https://res.cloudinary.com/dlskdxln3/image/upload/v1667244971/globechat/Screenshot_2022-10-31_at_19.35.47_ulf4sz.png)
 
-Check out more of my projects at milesbb.tech!
+<p align="center">Check out more of my projects on my github <a href="https://github.com/milesbb">milesbb</a> or on my website <a href="https://milesbb.tech">milesbb.tech</a>!</p>
+
+
