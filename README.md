@@ -1,14 +1,24 @@
-![Globe Chat](https://res.cloudinary.com/dlskdxln3/image/upload/v1667230804/globechat/earthgifbackground_wit2vu.gif)
 
-# Globe Chat
+<p align="center">
+  <img alt="Globe Chat" src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667230804/globechat/earthgifbackground_wit2vu.gif" />
+</p>
 
-⚙️ A Node.js and Socket.io powered online messaging web app.
+<h1 align="center">Globe Chat</h1>
 
-🌎 Bringing people together one random internet conversation at a time...
+<p align="center">⚙️ A Node.js and Socket.io powered online messaging web app.</p>
 
-![Start Screen](https://res.cloudinary.com/dlskdxln3/image/upload/v1667244971/globechat/Screenshot_2022-10-31_at_19.33.05_caubd3.png)
+<p align="center">🌎 Bringing people together one random internet conversation at a time...</p>
 
-📱 Also functional on mobile screens
+<p align="center">
+<img alt="Start Screen" height="500" src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667245844/globechat/webbogif_plvxi5.gif" />
+</p>
+
+
+<p align="center">📱 Also functional on mobile screens</p>
+
+<p align="center">
+<img alt="Mobile Example" height="700" src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667244971/globechat/Screenshot_2022-10-31_at_19.35.47_ulf4sz.png" />
+</p>
 
 ![Mobile example](https://res.cloudinary.com/dlskdxln3/image/upload/v1667244971/globechat/Screenshot_2022-10-31_at_19.35.47_ulf4sz.png)
 
